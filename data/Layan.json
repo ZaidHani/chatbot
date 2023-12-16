@@ -163,7 +163,7 @@
     {
       "tag": "Feature engineering",
       "patterns": [ "what is Feature engineering", "tell me about Feature engineering", "Feature engineering" ],
-      "response": [ "Feature engineering is the process of creating new features or modifying existing ones to enhance the performance of machine learning models. It involves selecting, transforming, and creating features that provide meaningful and relevant information for the task at hand" ]
+      "responses": [ "Feature engineering is the process of creating new features or modifying existing ones to enhance the performance of machine learning models. It involves selecting, transforming, and creating features that provide meaningful and relevant information for the task at hand" ]
     },
     {
       "tag": "Model Evaluation Metrics",
@@ -172,19 +172,22 @@
         "tell me about Model Evaluation Metrics",
         "explain Model Evaluation Metrics"
       ],
-      "response": [ "Model evaluation metrics are used to assess the performance of machine learning models such as accuracy." ]
+      "responses": [ "Model evaluation metrics are used to assess the performance of machine learning models such as accuracy." ]
     },
     {
       "tag": "Supervised",
-      "patterns": ["what is supervised","is supervised type of machine learning","explain supervised"],
-      "response": ["Supervised refers to a type of machine learning where the algorithm is trained on a labeled dataset, meaning that the input data used for training is paired with corresponding output labels."]
+      "patterns": [ "what is supervised", "is supervised type of machine learning", "explain supervised" ],
+      "responses": [ "Supervised refers to a type of machine learning where the algorithm is trained on a labeled dataset, meaning that the input data used for training is paired with corresponding output labels." ]
     },
     {
       "tag": "Unsupervised",
       "patterns": [
-        "what is unssupervised","it is a part of unsupervised","explain unsupervised","is unsupervised type of machine learning"
+        "what is unssupervised",
+        "it is a part of unsupervised",
+        "explain unsupervised",
+        "is unsupervised type of machine learning"
       ],
-      "response": ["Unsupervised learning is a type of machine learning where the algorithm is trained on data without explicit labels or output categories. In other words, the algorithm explores the inherent structure in the input data without the guidance of predefined output labels."]
+      "responses": [ "Unsupervised learning is a type of machine learning where the algorithm is trained on data without explicit labels or output categories. In other words, the algorithm explores the inherent structure in the input data without the guidance of predefined output labels." ]
     },
     {
       "tag": "Reinforcement",
@@ -194,7 +197,7 @@
         "explain Reinforcement",
         "is Reinforcement type of machine learning"
       ],
-      "response": [ "Reinforcement learning is a type of machine learning where an agent learns to make decisions by interacting with an environment." ]
+      "responses": [ "Reinforcement learning is a type of machine learning where an agent learns to make decisions by interacting with an environment." ]
     },
     {
       "tag": "cross validation",
@@ -202,7 +205,7 @@
         "what is cross validation",
         "explain cross validation"
       ],
-      "response": [ "Cross-validation is a statistical technique used in machine learning to assess the performance and generalizability of a predictive model." ]
+      "responses": [ "Cross-validation is a statistical technique used in machine learning to assess the performance and generalizability of a predictive model." ]
     },
     {
       "tag": "ensemble learning",
@@ -210,170 +213,170 @@
         "what is ensemble learning",
         "tell me more about ensemble learning"
       ],
-      "response": [ "Ensemble learning is a machine learning technique that combines the predictions of multiple individual models (learners) to improve overall performance and generalization" ]
+      "responses": [ "Ensemble learning is a machine learning technique that combines the predictions of multiple individual models (learners) to improve overall performance and generalization" ]
     },
     {
       "tag": "hyperparameter tuning",
       "patterns": [ "what is hyperparameter tuning", "tell me about hyperparameter tuning", "explain hyperparameter tuning", "hyperparameter tuning" ],
-      "response": [ "Hyperparameter tuning, also known as hyperparameter optimization or model selection, is the process of finding the best set of hyperparameters for a machine learning model. " ]
+      "responses": [ "Hyperparameter tuning, also known as hyperparameter optimization or model selection, is the process of finding the best set of hyperparameters for a machine learning model. " ]
     },
     {
       "tag": "data visualization",
       "patterns": [ "what is data visualization", "tell me more about data visualization", "explain data visualization", "data visualization" ],
-      "response": [ "Data visualization is the representation of data in graphical or pictorial formats to help people understand, interpret, and derive insights from complex datasets." ]
+      "responses": [ "Data visualization is the representation of data in graphical or pictorial formats to help people understand, interpret, and derive insights from complex datasets." ]
     },
     {
       "tag": "Programming languages",
       "patterns": [ "what is Programming languages use in data science", "Programming languages in data science", "what popluar Programming languages in data science" ],
-      "response": ["python and R"]
+      "responses": [ "python and R" ]
     },
     {
       "tag": "big data technologies",
       "patterns": [ "what is the big data technologies", "big data technologies" ],
-      "response": [ "KNime", "Hadoop", "rapid Miner", "Apache Spark" ]
+      "responses": [ "KNime", "Hadoop", "rapid Miner", "Apache Spark" ]
     },
     {
       "tag": "popular libraries and Framework",
-      "patterns": [ "what is popular libraries and Framework","most popular libraries in data science","what library uses for data science" ],
-      "response": [ "python (numpy, pandas, matplotlib,seaborn,scikit-learn", "TensorFlow" ]
+      "patterns": [ "what is popular libraries and Framework", "most popular libraries in data science", "what library uses for data science" ],
+      "responses": [ "python (numpy, pandas, matplotlib,seaborn,scikit-learn", "TensorFlow" ]
     },
     {
       "tag": "data Science tools",
       "patterns": [ "the most important tools for data science", "what tools for data science", "data Science tools" ],
-      "response": [ "Jupyter notebook", "SQl (oracle sql, microsoft sql server, postragl sql),knime, Power bi, Tableau" ]
+      "responses": [ "Jupyter notebook", "SQl (oracle sql, microsoft sql server, postragl sql),knime, Power bi, Tableau" ]
     },
     {
       "tag": "blog for data science",
       "patterns": [ "what is the best blog in data science", "how to know the new in data science", "blog for data science" ],
-      "response": [ "https://www.smartdatacollective.com/", "https://whatsthebigdata.com/", "https://medium.com/kaggle-blog" ]
+      "responses": [ "https://www.smartdatacollective.com/", "https://whatsthebigdata.com/", "https://medium.com/kaggle-blog" ]
     },
     {
       "tag": "Natural Language processing",
-      "patterns": [ "what is Natural Language processing", "explain Natural Language processing", "what is NLP", "Natural Language processing","NLP" ],
-      "response": [ "Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) that focuses on the interaction between computers and human language. The goal of NLP is to enable machines to understand, interpret, and generate human language in a way that is both meaningful and contextually relevant." ]
+      "patterns": [ "what is Natural Language processing", "explain Natural Language processing", "what is NLP", "Natural Language processing", "NLP" ],
+      "responses": [ "Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) that focuses on the interaction between computers and human language. The goal of NLP is to enable machines to understand, interpret, and generate human language in a way that is both meaningful and contextually relevant." ]
     },
     {
       "tag": "Time Series Analysis",
       "patterns": [ "what is Time Series Analysis", "explain Time Series Analysis", "defention of Time Series Analysis", "Time Series" ],
-      "response": [ "Time series analysis is a statistical technique that deals with time-ordered data points. It involves studying the patterns, trends, and behaviors in sequential data to make predictions or gain insights into the underlying processes." ]
+      "responses": [ "Time series analysis is a statistical technique that deals with time-ordered data points. It involves studying the patterns, trends, and behaviors in sequential data to make predictions or gain insights into the underlying processes." ]
     },
     {
       "tag": "Clustring Algorthims",
       "patterns": [ "what is Clustring Algorthims", "explain Clustring Algorthims", "tell me about Clustring Algorthims", "Clustring Algorthims" ],
-      "response": [ "Clustering algorithms are used in unsupervised machine learning to group similar data points together based on certain criteria. The goal of clustering is to identify patterns or structures in the data without explicit labels." ]
+      "responses": [ "Clustering algorithms are used in unsupervised machine learning to group similar data points together based on certain criteria. The goal of clustering is to identify patterns or structures in the data without explicit labels." ]
     },
     {
       "tag": "Dimensionality Reduction",
       "patterns": [ "what is Dimensionality Reduction", "tell me about Dimensionality Reduction", "explain Dimensionality Reduction" ],
-      "response": [ "Dimensionality reduction is a technique used in machine learning and data analysis to reduce the number of input features or variables in a dataset. The goal is to simplify the dataset while retaining its important characteristics and reducing computational complexity." ]
+      "responses": [ "Dimensionality reduction is a technique used in machine learning and data analysis to reduce the number of input features or variables in a dataset. The goal is to simplify the dataset while retaining its important characteristics and reducing computational complexity." ]
     },
     {
       "tag": "Data Science project Lifecycle",
-      "patterns": ["what is a lifecycle for data science project","project in data science","what is the steps for data science project"],
-      "response": [
+      "patterns": [ "what is a lifecycle for data science project", "project in data science", "what is the steps for data science project" ],
+      "responses": [
         "1.Define Objectives and Scope 2.Data Collection  3.Data Cleaning and Preprocessing  4.Exploratory Data Analysis (EDA)  5.Feature Engineering  6.Model Development 7.Model Evaluation"
       ]
     },
     {
       "tag": "kaggle for data science",
-      "patterns": ["what is kaggle","platform for data science","where to get data","kaggle compition"],
-      "response": [ "Kaggle is a popular platform for data science competitions, collaborative projects, and learning https://www.kaggle.com/" ]
+      "patterns": [ "what is kaggle", "platform for data science", "where to get data", "kaggle compition" ],
+      "responses": [ "Kaggle is a popular platform for data science competitions, collaborative projects, and learning https://www.kaggle.com/" ]
     },
     {
       "tag": "Data Warehousing",
       "patterns": [ "what is Data Warehousing", "Data Warehousing", "explain Data Warehousing", "tell me about Data Warehousing" ],
-      "response": [ "Data warehousing is a process of collecting, storing, and managing large volumes of data from various sources to support business intelligence (BI) and analytical reporting." ]
+      "responses": [ "Data warehousing is a process of collecting, storing, and managing large volumes of data from various sources to support business intelligence (BI) and analytical reporting." ]
     },
     {
       "tag": "IDE for data science",
       "patterns": [ "what is the most popular IDE for data science", "how to donlowd IDE for data science" ],
-      "response": [ "Jupyter Notebooks: https://www.anaconda.com/", "colab: https://colab.research.google.com/" ]
+      "responses": [ "Jupyter Notebooks: https://www.anaconda.com/", "colab: https://colab.research.google.com/" ]
     },
     {
       "tag": "EDA",
       "patterns": [ "what is EDA", "what is Explorty data analysis", "EDA", "tell me about EDA" ],
-      "response": [ "EDA stands for Exploratory Data Analysis, which is a crucial step in the data analysis process. EDA involves the initial exploration and understanding of a dataset to uncover patterns, trends, relationships, and anomalies. " ]
+      "responses": [ "EDA stands for Exploratory Data Analysis, which is a crucial step in the data analysis process. EDA involves the initial exploration and understanding of a dataset to uncover patterns, trends, relationships, and anomalies. " ]
     },
     {
       "tag": "statistical Description",
       "patterns": [ "what is statistical Description", "tell me about statistical Description", "statistical Description" ],
-      "response": [ "Statistical description refers to the use of statistical measures and techniques to summarize, describe, and interpret the main features of a dataset." ]
+      "responses": [ "Statistical description refers to the use of statistical measures and techniques to summarize, describe, and interpret the main features of a dataset." ]
     },
     {
       "tag": "Feature Scaling",
       "patterns": [ "what is Feature Scaling", "tell me about Feature Scaling", "explain Feature Scaling", "Feature Scaling" ],
-      "response": [ "Feature scaling is a preprocessing step in machine learning that involves transforming the features of a dataset to a standardized range." ]
+      "responses": [ "Feature scaling is a preprocessing step in machine learning that involves transforming the features of a dataset to a standardized range." ]
     },
     {
       "tag": "Handling missing data",
       "patterns": [ "how to handle missing data", "explain Handling missing data" ],
-      "response": [ "1. Dropping Missing Values  2.Imputation  3.Forward Fill and Backward Fill  4.Interpolation  5. Creating a Missing Indicator" ]
+      "responses": [ "1. Dropping Missing Values  2.Imputation  3.Forward Fill and Backward Fill  4.Interpolation  5. Creating a Missing Indicator" ]
     },
     {
       "tag": "Deep learning",
-      "patterns": [ "what is Deep learning", "tell me more about Deep learning", "Deep learning","defention of deep learning" ],
-      "response": [ "Deep learning is a subfield of machine learning that focuses on artificial neural networks and deep neural networks. It involves training complex models, often with multiple layers, to learn hierarchical representations of data"]
+      "patterns": [ "what is Deep learning", "tell me more about Deep learning", "Deep learning", "defention of deep learning" ],
+      "responses": [ "Deep learning is a subfield of machine learning that focuses on artificial neural networks and deep neural networks. It involves training complex models, often with multiple layers, to learn hierarchical representations of data" ]
     },
     {
       "tag": "skills for data science",
-      "patterns": ["what skills need for data science","skills for data science"],
-      "response": [ "1.Programming Languages   2.Statistical Knowledge  3.Data Manipulation and Analysis  4.Data Visualization 5. Machine Learning  6. SQL Database Knowledge  7. Big Data Technologies  8. Data Cleaning and Preprocessing  9. Feature Engineering" ]
+      "patterns": [ "what skills need for data science", "skills for data science" ],
+      "responses": [ "1.Programming Languages   2.Statistical Knowledge  3.Data Manipulation and Analysis  4.Data Visualization 5. Machine Learning  6. SQL Database Knowledge  7. Big Data Technologies  8. Data Cleaning and Preprocessing  9. Feature Engineering" ]
     },
     {
       "tag": "problem solving skills",
-      "patterns": [ "problem solving skills for data science","problem solving" ],
-      "response": [ "Problem-solving skills are crucial for data scientists, as they play a key role in formulating and addressing complex challenges using data-driven approaches." ]
+      "patterns": [ "problem solving skills for data science", "problem solving" ],
+      "responses": [ "Problem-solving skills are crucial for data scientists, as they play a key role in formulating and addressing complex challenges using data-driven approaches." ]
     },
     {
       "tag": "SQL",
-      "patterns": ["SQL in data science","it is sql important for data science"],
-      "response": [ "In data science, SQL is commonly used for querying, filtering, aggregating, and transforming data stored in relational databases." ]
+      "patterns": [ "SQL in data science", "it is sql important for data science" ],
+      "responses": [ "In data science, SQL is commonly used for querying, filtering, aggregating, and transforming data stored in relational databases." ]
     },
     {
       "tag": "statistics",
       "patterns": [ "statistics in data science", "what is statistics in data science" ],
-      "response": [ "Statistics is a branch of mathematics that involves the collection, analysis, interpretation, presentation, and organization of data. " ]
+      "responses": [ "Statistics is a branch of mathematics that involves the collection, analysis, interpretation, presentation, and organization of data. " ]
     },
     {
       "tag": "Data Mining",
       "patterns": [ "what is Data Mining", "tell me more about Data Mining", "data mining", "defention of Data Mining" ],
-      "response": [ "Data mining is the process of discovering patterns, trends, correlations, or valuable information from large datasets using various methods, including machine learning, statistical analysis, and database systems." ]
+      "responses": [ "Data mining is the process of discovering patterns, trends, correlations, or valuable information from large datasets using various methods, including machine learning, statistical analysis, and database systems." ]
     },
     {
       "tag": "Web Scraping",
       "patterns": [ "what is Web Scraping", "Web Scraping in data science" ],
-      "response": [ "Web scraping is the process of extracting data from websites. It involves fetching the HTML of a web page, parsing it, and extracting the desired information." ]
+      "responses": [ "Web scraping is the process of extracting data from websites. It involves fetching the HTML of a web page, parsing it, and extracting the desired information." ]
     },
     {
       "tag": "Data Engineering",
       "patterns": [ "what is Data Engineering", "tell me about Data Engineering", "explain Data Engineering" ],
-      "response": [ "Data engineering is a field of study and practice that focuses on designing, developing, and managing the architecture, tools, and systems for collecting, storing, processing, and analyzing data." ]
+      "responses": [ "Data engineering is a field of study and practice that focuses on designing, developing, and managing the architecture, tools, and systems for collecting, storing, processing, and analyzing data." ]
     },
     {
       "tag": "company in data science",
-      "patterns": ["what is the company work in data science in jordan"],
-      "response": ["all banks in jordan","Zain","Orange","Umniah","Shai for Ai","big 4 organization (pwc, E&Y, KMPG, Deloitte "]
+      "patterns": [ "what is the company work in data science in jordan" ],
+      "responses": [ "all banks in jordan", "Zain", "Orange", "Umniah", "Shai for Ai", "big 4 organization (pwc, E&Y, KMPG, Deloitte " ]
     },
     {
       "tag": "Data Analysis",
       "patterns": [ "what is Data Analysis", "tell me about Data Analysis", "explain Data Analysis" ],
-      "response": [ "Data analysis is the process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making." ]
+      "responses": [ "Data analysis is the process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making." ]
     },
     {
       "tag": "Youtube Channels Data analysis",
-      "patterns": ["what is the Youtube Channels in data analysis","best youtube channels in data analysis "],
-      "response": [ "https://www.youtube.com/@AlexTheAnalyst , https://www.youtube.com/@codebasics" ]
+      "patterns": [ "what is the Youtube Channels in data analysis", "best youtube channels in data analysis " ],
+      "responses": [ "https://www.youtube.com/@AlexTheAnalyst , https://www.youtube.com/@codebasics" ]
     },
     {
       "tag": "Youtube Channels Python",
       "patterns": [ "what is the Youtube Channels to learn python", "best youtube channels in python " ],
-      "response": [ "https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=173s" ]
+      "responses": [ "https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=173s" ]
     },
     {
       "tag": "Youtube Channels Machine learning",
       "patterns": [ "what is the Youtube Channels to learn Machine learning", "best youtube channels in machine learning " ],
-      "response": [ "https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU" ]
-    
+      "responses": [ "https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU" ]
+
     }
   ]
 }
