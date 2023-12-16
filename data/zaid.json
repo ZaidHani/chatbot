@@ -1,0 +1,425 @@
+{
+    "intents": [
+        {
+            "tag": "chatbots vs LLM",
+            "patterns": [
+                "what is the difference between you and chatGPT",
+                "how you and Bard different",
+                "is chatGPT better than you",
+                "is Bard a better chatbot",
+                "Large Language Model",
+                "LMM",
+                "you vs llm",
+                "chatbots vs LLMs",
+                "chatGPT",
+                "bard"
+            ],
+            "responses": [
+                "If you are comparing me to a Large Language Model (LLM) then the (LLM) wins by a long shot, I'm just a chatbot with a static data and limited AI capabilities",
+                "Large Language Models (LLMs) are much better than me in providing information, while my data is limited to data science, LLMs dataset has a wider range",
+                "I am not a Large Language Model (LLM) I'm just a regular chatbot, I'm sorry if you got disappointed"]
+        },
+{
+            "tag": "chatbots",
+            "patterns": [
+                "chatbot",
+                "chatbots",
+                "what are chatbots",
+                "why chatbots"
+            ],
+            "responses": [
+                "A chatbot is a software application or web interface that is designed to mimic human conversation through text or voice interactions. but you can only interact with me through text, sorry if you got diappointed",
+                "a chatbot is a computer program that simulates and processes human conversation (either written or spoken), allowing humans to interact with digital devices as if they were communicating with a real person",
+                "Chatbots can be as simple as rudimentary programs that answer a simple query with a single-line response, or as sophisticated as digital assistants that learn and evolve to deliver increasing levels of personalization as they gather and process information."
+            ]
+        },
+{
+            "tag": "LLM",
+            "patterns": [
+                "what is a large language model",
+                "llm",
+                "what is chatgpt",
+                "what is bard",
+                "large language models",
+                "what are llms",
+                "what is an llm"
+            ],
+            "responses": [
+                "A large language model (LLM) is a deep learning algorithm that can perform a variety of natural language processing (NLP) tasks. Large language models use transformer models and are trained using massive datasets — hence, large. This enables them to recognize, translate, predict, or generate text or other content.",
+                "Large language models are also referred to as neural networks (NNs), which are computing systems inspired by the human brain. These neural networks work using a network of nodes that are layered, much like neurons.",
+                "Large language models (LLMs) are recent advances in deep learning models to work on human languages. Some great use case of LLMs has been demonstrated. A large language model is a trained deep-learning model that understands and generates text in a human-like fashion. Behind the scene, it is a large transformer model that does all the magic."
+            ]
+        },
+{
+            "tag": "limitations",
+            "patterns": [
+                "what is your limits",
+                "do you have limits",
+                "how far can I go in asking you",
+                "how scalable are you",
+                "how big are you",
+                "are you limited"
+            ],
+            "responses": [
+                "I am limited by the data my devolopers have provided",
+                "I'm not that big of a chatbot, but I'll try my best to answer your questions!",
+                "Please ask me anything related to data science and I'll do my best to answer you!",
+                "Sorry if you got disappointed, but my data is limited to data science topics"
+            ]
+        },
+{
+            "tag": "BAU",
+            "patterns": [
+                "what is bau",
+                "bau",
+                "what university did your creators go to",
+                "where did your creators study",
+                "what is your developers university",
+                "balqaa applied university",
+                "AlBalqa Applied Universit",
+                "Al-Balqaʼ Applied University"
+            ],
+            "responses": [
+                "Al-Balqa Applied University (BAU) is the place where my developers studied, BAU is considred to be one of the biggest Universitis in Jordan since it is divided to 18 different branches. The main branch is located in Salt, Jordan",
+                "BAU is is a government-supported university located in Salt, Jordan, was founded in 1997, a distinctive state university in the field of Bachelor and associate degree Applied Education, at the capacity of more than 21,000 student distributed into 10,000 at the bachelor's degree program and 11,000 at the associate degree program."
+            ]
+        },
+{
+            "tag": "AI",
+            "patterns": [
+                "what is ai",
+                "ai",
+                "Artificial intelligence",
+                "what is artficial intelligence"
+            ],
+            "responses": [
+                "Artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. The term is frequently applied to the project of developing systems endowed with the intellectual processes characteristic of humans, such as the ability to reason, discover meaning, generalize, or learn from past experience. Still, despite continuing advances in computer processing speed and memory capacity, there are as yet no programs that can match full human flexibility over wider domains or in tasks requiring much everyday knowledge. On the other hand, some programs have attained the performance levels of human experts and professionals in performing certain specific tasks, so that artificial intelligence in this limited sense is found in applications as diverse as medical diagnosis, computer search engines, voice or handwriting recognition, and chatbots.",
+                "Artificial intelligence (AI) is a wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. While AI is an interdisciplinary science with multiple approaches, advancements in machine learning and deep learning, in particular, are creating a paradigm shift in virtually every sector of the tech industry.",
+                "Artificial intelligence allows machines to model, or even improve upon, the capabilities of the human mind. And from the development of self-driving cars to the proliferation of generative AI tools like ChatGPT and Google’s Bard, AI is increasingly becoming part of everyday life — and an area companies across every industry are investing in.",
+                "At its simplest form, artificial intelligence is a field, which combines computer science and robust datasets, to enable problem-solving. It also encompasses sub-fields of machine learning and deep learning, which are frequently mentioned in conjunction with artificial intelligence. These disciplines are comprised of AI algorithms which seek to create expert systems which make predictions or classifications based on input data.",
+                "Artificial intelligence, or AI, refers to the simulation of human intelligence by software-coded heuristics. Nowadays this code is prevalent in everything from cloud-based, enterprise applications to consumer apps and even embedded firmware."
+            ]
+        },
+{
+            "tag": "BI",
+            "patterns": [
+                "what is bi",
+                "bi",
+                "business intelligence",
+                "what is business intelligence"
+            ],
+            "responses": [
+                "Business intelligence (BI) is software that ingests business data and presents it in user-friendly views such as reports, dashboards, charts and graphs.",
+                "Business intelligence combines business analytics, data mining, data visualization, data tools and infrastructure, and best practices to help organizations make more data-driven decisions. In practice, you know you’ve got modern business intelligence when you have a comprehensive view of your organization’s data and use that data to drive change, eliminate inefficiencies, and quickly adapt to market or supply changes. Modern BI solutions prioritize flexible self-service analysis, governed data on trusted platforms, empowered business users, and speed to insight.",
+                "Business intelligencecomprises the strategies and technologies used by enterprises for the data analysis and management of business information.[1] Common functions of business intelligence technologies include reporting, online analytical processing, analytics, dashboard development, data mining, process mining, complex event processing, business performance management, benchmarking, text mining, predictive analytics, and prescriptive analytics.",
+                "Business intelligence (BI) is a set of strategies and technologies enterprises use to analyze business information and transform it into actionable insights that inform strategic and tactical business decisions. BI tools access and analyze data sets and present analytical findings in reports, summaries, dashboards, graphs, charts, and maps to provide users with detailed intelligence about the state of the business."
+            ]
+        },
+{
+            "tag": "personal projects",
+            "patterns": [
+                "should i do personal projects",
+                "what is the importance of personal projects",
+                "how important is it to do a personal project",
+                "self made projects",
+                "focusing on personal projects"
+            ],
+            "responses": [
+                "Personal projects in data science are crucial for skill development, portfolio building, and career advancement. They offer hands-on experience, allowing practitioners to apply and reinforce their skills in real-world scenarios. These projects showcase problem-solving abilities, foster creativity and innovation, and demonstrate domain expertise. By engaging in personal projects, data scientists stay current with industry trends, contribute to open source, and build a network within the community. These initiatives reflect self-initiative, passion, and a willingness to experiment with new approaches, enhancing one's resume and setting them apart in a competitive job market.",
+                "Data scientists benefit from personal projects as they provide hands-on experience, showcase skills, and build portfolios. These initiatives foster problem-solving, creativity, and domain expertise, demonstrating self-initiative and a passion for the field. Engagement in personal projects enhances resumes, setting data scientists apart in a competitive job market.",
+                "It is highly recommended to practice skills to become an efficient professional for this field. After grabbing some very good theoretical knowledge on Data Science, if you are really looking ahead to explore what it seems like to be a professional, then now is the time to do some practical projects.",
+                "Personal projects are highly recommended because the knowledge you'll obtain from them will surpass any course"
+            ]
+        },
+{
+            "tag": "people in data science",
+            "patterns": [
+                "give some data science influencers",
+                "people in data science",
+                "people who are big in the data science world",
+                "people who influenced the data science landscape"
+            ],
+            "responses": [
+                "There are a lot of great people who have done a lot to data science, some of them are: 'Andrew NG', 'Mike West', 'Ben Rogojan' and 'Luke Barousse'",
+                "There is also: 'Bill Inmon', 'Mike Kimbell', 'Ken Jee', 'Joma Tech' and 'Joe Ries'"
+            ]
+        },
+{
+            "tag": "databases",
+            "patterns": [
+                "what is a database",
+                "importance of a database in data science",
+                "why use a database",
+                "database"
+            ],
+            "responses": [
+                "A database is a structured collection of data that is organized in a way that allows for efficient storage, retrieval, and management of information. It serves as a centralized repository for storing and managing data, making it easier to organize, update, and access information as needed. Databases are used in various applications and industries, ranging from simple systems like address books to complex systems like enterprise-level data warehouses.",
+                "A database is an organized collection of data, structured into tables with rows (records) and columns (fields). It facilitates efficient storage, retrieval, and management of information. Key components include tables, rows, columns, and keys. Relational databases use SQL to interact with data, while NoSQL databases offer flexibility for handling unstructured data. Databases are fundamental in software applications, websites, and information systems, providing a centralized and structured approach to data storage and retrieval.",
+                "Databases are essential for organized data storage, efficient retrieval, and maintaining data integrity. They support scalability, security, and relationships between data sets. Integral to applications, databases enable analysis, backup, and recovery, serving as a foundation for diverse technologies."
+            ]
+        },
+{
+            "tag": "options",
+            "patterns": [
+                "How you could help me?",
+                "What you can do?",
+                "What help you provide?",
+                "How you can be helpful?",
+                "What support is offered"
+            ],
+            "responses": [
+                "I am a data science chatbot. I can chat with you and teach you about data science",
+                "Try asking me anything related to data science and I'll do my best"
+    ]
+        },
+{
+            "tag": "identity",
+            "patterns": [
+                "what are you",
+                "who are you"
+            ],
+            "responses": [
+                "I am a data science chatbot, I was designed to teach people about data science and realted fields, I was made by Zaid Allwansah and Layan Albalbeisi",
+                "I'm a chatbot and my job is to answer your question related to data science"
+            ]
+        },
+{
+            "tag": "jokes",
+            "patterns": [
+                "Tell me a joke",
+                "Joke",
+                "Make me laugh"
+            ],
+            "responses": [
+                "A perfectionist walked into a bar...apparently, the bar wasn't set high enough",
+                "I ate a clock yesterday, it was very time-consuming",
+                "Never criticize someone until you've walked a mile in their shoes. That way, when you criticize them, they won't be able to hear you from that far away. Plus, you'll have their shoes.",
+                "The world tongue-twister champion just got arrested. I hear they're gonna give him a really tough sentence.",
+                "I own the world's worst thesaurus. Not only is it awful, it's awful.",
+                "What did the traffic light say to the car? \"Don't look now, I'm changing.\"",
+                "What do you call a snowman with a suntan? A puddle.",
+                "How does a penguin build a house? Igloos it together",
+                "I went to see the doctor about my short-term memory problems – the first thing he did was make me pay in advance",
+                "As I get older and I remember all the people I’ve lost along the way, I think to myself, maybe a career as a tour guide wasn’t for me.",
+                "o what if I don't know what 'Armageddon' means? It's not the end of the world."
+            ]
+        },
+{
+            "tag": "data modeling",
+            "patterns": [
+                "what can you tell me about data modeling",
+                "what is data modeling",
+                "data modeling"
+            ],
+            "responses": [
+                "Data modeling is the process of creating a visual representation of either a whole information system or parts of it to communicate connections between data points and structures.",
+                "Data Modeling in software engineering is the process of simplifying the diagram or data model of a software system by applying certain formal techniques. It involves expressing data and information through text and symbols. The data model provides the blueprint for building a new database or reengineering legacy applications.",
+                "Data Modeling thus helps to increase consistency in naming, rules, semantics, and security. This, in turn, improves data analytics. The emphasis is on the need for availability and organization of data, independent of the manner of its application.",
+                "Data modeling is a process of creating a conceptual representation of data objects and their relationships to one another. The process of data modeling typically involves several steps, including requirements gathering, conceptual design, logical design, physical design, and implementation. During each step of the process, data modelers work with stakeholders to understand the data requirements, define the entities and attributes, establish the relationships between the data objects, and create a model that accurately represents the data in a way that can be used by application developers, database administrators, and other stakeholders."
+            ]
+        },
+{
+            "tag": "getting a degree",
+            "patterns": [
+                "should i get a degree",
+                "are degrees a better choice",
+                "should i pursue a degree or should i self learn",
+                "self learning vs degrees"
+            ],
+            "responses": [
+                "Getting a degree will get you ahead in your career by a long shot compared to learning by yourself, a degree might help you a lot but will be fruitless if you did not do anything else, you should learn more and keep going forwards even after getting a degree, because the job market in software changes everyday",
+                "Getting a degree is a great option if you can afford it, but Courses and coding websites like The Odin Project and Leet code will help you a lot, the project-based curriculum will give you the practical skills that you need to get a job."
+            ]
+        },
+{
+            "tag": "discord",
+            "patterns": [
+                "what is discord",
+                "discord",
+                "is discord just for gaming",
+                "will discord help me"
+            ],
+            "responses": [
+                "Discord is a communication platform that combines text, voice, and video chat. Initially developed for gamers, it has evolved into a versatile platform used by various communities, businesses, and educational groups. Users can create or join servers, which are essentially virtual spaces where people can communicate. Within servers, there are channels for different topics, and users can exchange messages, share multimedia, and participate in voice or video calls. Discord has gained popularity for its ease of use, low-latency voice chat, and the ability to create customized bots and integrations. It is widely used for socializing, collaboration, and online communities.",
+                "Discord is a platform to commuincate with people using text, voice and audio forms. Discord has a lot of various communities so you'll definitely find something to your liking. Discord is also used by tech people for it's simplicity, and fimilarity, since a lot of IT people already have discord installed for gaming purposes"
+            ]
+        },
+{
+            "tag": "lablabme",
+            "patterns": [
+                "what is lablab.me",
+                "what were you made for",
+                "hackathon",
+                "chatathon",
+                "lab lab",
+                "lablab"
+            ],
+            "responses": [
+                "LabLab is one of the biggest AI commuinties that is specialized in developing AI applications, they host many hackathon-like competetions.",
+                "LabLab is platform that hosts hackathons for anyone to join, these hackathons brings a lot of talented people to develop a variaty of impressive projects"
+            ]
+        },
+{
+            "tag": "thanks",
+            "patterns": [
+                "thank you",
+                "thanks a lot",
+                "awesome",
+                "thank you for your help",
+                "you were a great help",
+                "you are very helpful"
+            ],
+            "responses": [
+                "I'm glad you're satisfied",
+                "You're welcome!",
+                "Anytime!",
+                "Feel free to ask me again!"
+            ]
+        },
+{
+            "tag": "bye",
+            "patterns": [
+                "good bye",
+                "ciao",
+                "adios",
+                "sayonara",
+                "bye bye",
+                "see you later"
+            ],
+            "responses": [
+                "Please come again!",
+                "Good bye!"
+            ]
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        },
+{
+            "tag": "",
+            "patterns": [],
+            "responses": []
+        }
+    ]
+}
