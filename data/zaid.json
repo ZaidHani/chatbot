@@ -158,52 +158,7 @@
                 "Databases are essential for organized data storage, efficient retrieval, and maintaining data integrity. They support scalability, security, and relationships between data sets. Integral to applications, databases enable analysis, backup, and recovery, serving as a foundation for diverse technologies."
             ]
         },
-{
-            "tag": "options",
-            "patterns": [
-                "How you could help me?",
-                "What you can do?",
-                "What help you provide?",
-                "How you can be helpful?",
-                "What support is offered"
-            ],
-            "responses": [
-                "I am a data science chatbot. I can chat with you and teach you about data science",
-                "Try asking me anything related to data science and I'll do my best"
-    ]
-        },
-{
-            "tag": "identity",
-            "patterns": [
-                "what are you",
-                "who are you"
-            ],
-            "responses": [
-                "I am a data science chatbot, I was designed to teach people about data science and realted fields, I was made by Zaid Allwansah and Layan Albalbeisi",
-                "I'm a chatbot and my job is to answer your question related to data science"
-            ]
-        },
-{
-            "tag": "jokes",
-            "patterns": [
-                "Tell me a joke",
-                "Joke",
-                "Make me laugh"
-            ],
-            "responses": [
-                "A perfectionist walked into a bar...apparently, the bar wasn't set high enough",
-                "I ate a clock yesterday, it was very time-consuming",
-                "Never criticize someone until you've walked a mile in their shoes. That way, when you criticize them, they won't be able to hear you from that far away. Plus, you'll have their shoes.",
-                "The world tongue-twister champion just got arrested. I hear they're gonna give him a really tough sentence.",
-                "I own the world's worst thesaurus. Not only is it awful, it's awful.",
-                "What did the traffic light say to the car? \"Don't look now, I'm changing.\"",
-                "What do you call a snowman with a suntan? A puddle.",
-                "How does a penguin build a house? Igloos it together",
-                "I went to see the doctor about my short-term memory problems – the first thing he did was make me pay in advance",
-                "As I get older and I remember all the people I’ve lost along the way, I think to myself, maybe a career as a tour guide wasn’t for me.",
-                "o what if I don't know what 'Armageddon' means? It's not the end of the world."
-            ]
-        },
+
 {
             "tag": "data modeling",
             "patterns": [
@@ -259,23 +214,7 @@
                 "LabLab is platform that hosts hackathons for anyone to join, these hackathons brings a lot of talented people to develop a variaty of impressive projects"
             ]
         },
-{
-            "tag": "thanks",
-            "patterns": [
-                "thank you",
-                "thanks a lot",
-                "awesome",
-                "thank you for your help",
-                "you were a great help",
-                "you are very helpful"
-            ],
-            "responses": [
-                "I'm glad you're satisfied",
-                "You're welcome!",
-                "Anytime!",
-                "Feel free to ask me again!"
-            ]
-        },
+
 {
             "tag": "bye",
             "patterns": [
