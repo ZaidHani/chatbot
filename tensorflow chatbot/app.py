@@ -1,3 +1,3 @@
-from Chatbot import chat
+from chatbot import chat
 
 chat()
