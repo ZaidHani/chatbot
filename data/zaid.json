@@ -388,89 +388,185 @@
             ]
         },
 {
-            "tag": "",
-            "patterns": [],
-            "responses": []
+            "tag": "data sources",
+            "patterns": [
+                "where can i get data",
+                "data sources",
+                "where to find data",
+                "how can i start with data",
+                "where is the data"
+            ],
+            "responses": [
+                "Data could be located in many places on the web, one of the best data sources out there is https://kaggle.com this website is used by a lot of people in their personal projects",
+                "You can find data anywhere, here is some of the biggest data sources online: https://kaggle.com, https://data.world, https://data.gov, https://datasetsearch.research.google.com/"
+            ]
         },
 {
-            "tag": "",
-            "patterns": [],
-            "responses": []
+            "tag": "where to stuyd data science",
+            "patterns": [
+                "where can I start with data science",
+                "platforms to start with data science",
+                "how can I study data science",
+                "data science learning resources",
+                "learning data science"
+            ],
+            "responses": [
+                "A good place to start learning data science is Kaggles free courses: https://kaggle.com",
+                "A good resource to learn programming and related fields is FreeCodeCamp you can find them here: https://www.freecodecamp.org or on thier youtube channel https://www.youtube.com/@freecodecamp"
+            ]
         },
 {
-            "tag": "",
+            "tag": "youtube channels",
             "patterns": [],
-            "responses": []
+            "responses": [
+                "Here are some youtube channels that will teach you data science: https://www.youtube.com/@KeithGalli, https://www.youtube.com/@freecodecamp, https://www.youtube.com/@365DataScience, https://www.youtube.com/@edurekaIN, https://www.youtube.com/@SimplilearnOfficial"
+            ]
         },
 {
-            "tag": "",
-            "patterns": [],
-            "responses": []
+            "tag": "sharing",
+            "patterns": [
+                "how can i share my progress",
+                "where can i share my projects",
+                "places where I can make people see my projects and progress",
+                "i want people to see my code",
+                "where to share my code",
+                "how can i make a network of work connections"
+            ],
+            "responses": [
+                "You can share your progress and make tons of connections using LinkeIn: https://linkedin.com, you can also share your code using GitHub: https://github.com"
+            ]
         },
 {
-            "tag": "",
-            "patterns": [],
-            "responses": []
+            "tag": "certifications",
+            "patterns": [
+                "where can I find certifications",
+                "are certificates good",
+                "certifications in data scinece",
+                "getting a certificate",
+                "getting a certification",
+                "best certifications and certificates available"
+            ],
+            "responses": [
+                "Data science certifications give you an opportunity not only to develop skills that are hard to find in your desired industry but also to validate your data science know-how so that recruiters and hiring managers know what they’re getting if they hire you. Here are some of the top certificates available: Certified Analytics Professional (CAP) \n Cloudera Data Platform Generalist Certification \n Data Science Council of America (DASCA) Senior Data Scientist (SDS) \n Data Science Council of America (DASCA) Principal Data Scientist (PDS) \n IBM Data Science Professional Certificate \n Microsoft Certified: Azure AI Fundamentals \n Microsoft Certified: Azure Data Scientist Associate \n Open Certified Data Scientist (Open CDS) \n SAS Certified AI and Machine Learning Professional \n SAS Certified Advanced Analytics Professional using SAS 9 \n SAS Certified Data Scientist \n Tensorflow Developer Certificate"
+            ]
         },
 {
-            "tag": "",
-            "patterns": [],
-            "responses": []
+            "tag": "python vs r",
+            "patterns": [
+                "python vs r",
+                "r",
+                "the best data science language"
+            ],
+            "responses": [
+                "Python and R are the preferred languages in Data Science, Data Analysis, Machine Learning, etc. Although they are used for similar purposes they differ from each other. R mainly focuses on the statistical part of a project while Python is flexible in its usage and data analysis tasks."
+            ]
         },
 {
-            "tag": "",
-            "patterns": [],
-            "responses": []
+            "tag": "overfitting vs underfitting",
+            "patterns": [
+                "overfitting",
+                "overfitting vs underfitting",
+                "difference between overfitting and underfitting",
+                "underfitting"
+            ],
+            "responses": [
+                "Overfitting refers to a model that models the training data too well. Overfitting happens when a model learns the detail and noise in the training data to the extent that it negatively impacts the performance of the model on new data. This means that the noise or random fluctuations in the training data is picked up and learned as concepts by the model. The problem is that these concepts do not apply to new data and negatively impact the models ability to generalize. \n Underfitting refers to a model that can neither model the training data nor generalize to new data. An underfit machine learning model is not a suitable model and will be obvious as it will have poor performance on the training data."
+            ]
         },
 {
-            "tag": "",
-            "patterns": [],
-            "responses": []
+            "tag": "why data scinece",
+            "patterns": [
+                "why should i learn data science",
+                "data science importance",
+                "should i pursue a career in data science",
+                "why data scinece",
+                "reasons to study data science"
+
+            ],
+            "responses": [
+                "Data science has the potential to improve the way we live and work, and it can empower others to make better decisions, solve problems, discover new advancements, and address some of the world's most pressing issues. With a data science career, you can be a part of this transformation.",
+                "Without data science, companies of all sizes, especially large organizations, would have difficulty making informed decisions. Data scientists extrapolate the data they collect to uncover trends in every area of the business. They help leaders and C-suite executives make decisions backed by data to continue growing their company and make the best decisions for their consumers. Businesses are all about analytics and metrics. Without those, you don’t have a clear picture of the health of your business. Data science is essential for every business because of the value and insight it provides.",
+                "Whether you're an experienced information technology worker or completely new to the field, studying data science is an opportunity for you to become a lifelong learner. Data science is a developing industry that follows the trends of technological advancements. Therefore, if you pursue a career in data science, you can expect to continue learning about the latest developments in the field. Your position, its responsibilities, certifications and any learning you do to advance your career can keep you challenged with its technical and specialized information."
+            ]
         },
 {
-            "tag": "",
-            "patterns": [],
-            "responses": []
+            "tag": "common ML algorithms",
+            "patterns": [
+                "what are some common machine learning algorithms",
+                "machine learning algorithms",
+                "most used machine learning algorithms",
+                "common and frequently used machine learning algorithms"
+            ],
+            "responses": [
+                "Machine learning algorithms can be broadly categorized into: **Supervised Learning:** \n - Linear Regression \n - Logistic Regression \n - Decision Trees \n - Support Vector Machines (SVM) \n **Unsupervised Learning:** \n - K-Means Clustering \n - Hierarchical Clustering \n - Principal Component Analysis (PCA) \n - Association Rule Learning \n **Reinforcement Learning:** \n - Q-Learning \n - Deep Q Network (DQN) \n - Policy Gradient Methods \n **Ensemble Learning:** \n - Random Forest \n - Gradient Boosting (XGBoost, LightGBM) \n **Neural Networks:** \n - Multilayer Perceptron (MLP) \n - Convolutional Neural Network (CNN) \n - Recurrent Neural Network (RNN) \n - Transformer \n **Instance-Based Learning:** \n - k-Nearest Neighbors (k-NN) \n These algorithms serve various purposes, from predicting outcomes and grouping data to learning optimal strategies and modeling complex patterns."
+            ]
         },
 {
-            "tag": "",
-            "patterns": [],
-            "responses": []
+            "tag": "visualization libraries",
+            "patterns": [
+                "python visualization libraries",
+                "give me some visualization tools in python",
+                "how can i visualize my data",
+                "visualizing my data in python",
+                "library to visualize my data",
+                "showcase my data in python",
+                "draw the data in python"
+            ],
+            "responses": [
+                "Here are some of the most common vizualiztion libraries in python: \n matplotlib \n seaborn \n plotly \n bokeh"
+            ]
         },
 {
-            "tag": "",
-            "patterns": [],
-            "responses": []
+            "tag": "power bi vs tableau",
+            "patterns": [
+                "compare power bi to tableau",
+                "power bi vs tableau",
+                "which one is better power bi or tableau"
+            ],
+            "responses": [
+                "Power BI and Tableau are prominent players in the field of business intelligence and data visualization, each with its strengths and considerations. \n Power BI: \n Developed by Microsoft, Power BI offers seamless integration with the broader Microsoft ecosystem, making it an attractive choice for organizations already using products like Excel, Azure, and SQL Server. It is known for its cost-effectiveness, especially for businesses aligned with Microsoft technologies. Power BI has an intuitive interface, particularly beneficial for users familiar with Microsoft products, and features robust Extract, Transform, Load (ETL) capabilities for data preparation. Additionally, it supports natural language querying, enhancing the user experience. Power BI's integration with Microsoft Teams facilitates collaborative work within the organization. \n Tableau: \n Acquired by Salesforce, Tableau is renowned for its user-friendly drag-and-drop interface, making it accessible for users without extensive technical skills. It boasts broad integration capabilities with various data sources, providing flexibility in data connectivity. Tableau places a strong emphasis on data storytelling, enabling users to create compelling narratives through visualizations. It has a large and active user community, offering ample resources and support. While Tableau's pricing may be considered higher than Power BI, it caters to organizations seeking advanced visualization capabilities and a focus on storytelling in their analytics. \n Considerations: \n When deciding between Power BI and Tableau, organizations should weigh factors such as cost, integration requirements, user familiarity, and scalability. Power BI is often a more cost-effective choice for Microsoft-centric environments, whereas Tableau's strengths lie in its user-friendly interface and emphasis on storytelling, making it suitable for organizations valuing advanced visualization capabilities and a strong user community. Ultimately, the choice depends on the specific needs, budget, and existing technology landscape of the organization."
+            ]
         },
 {
-            "tag": "",
-            "patterns": [],
-            "responses": []
+            "tag": "salaries",
+            "patterns": [
+                "data science salary",
+                "salaries",
+                "how much does a data scientist earn",
+                "how much does a data scientist get paid"
+            ],
+            "responses": [
+                "Data scientist earn a higher-than-average salary. According to the U.S. Bureau of Labor Statistics (BLS), the median salary for data scientists was $103,500 per year as of 2022. That's more than double the median annual wage for all workers, which the BLS pinned at $46,310 during the same period.",
+                "The average data science job salary is around $156,395 per year in the United States."
+            ]
         },
 {
-            "tag": "",
-            "patterns": [],
-            "responses": []
+            "tag": "job titles",
+            "patterns": [
+                "what are some of the jobs related to data science",
+                "data related fields and jobs",
+                "jobs in data",
+                "data science jobs",
+                "job titles"
+            ],
+            "responses": [
+                "Data science is a very diverse field, some of the job titles that are related to data scinece are: Data Engineer, Machnie Learning Engineer, Data Analyst, Business Intelligence Aanlyst and Data Architecht"
+            ]
         },
 {
-            "tag": "",
-            "patterns": [],
-            "responses": []
-        },
-{
-            "tag": "",
-            "patterns": [],
-            "responses": []
-        },
-{
-            "tag": "",
-            "patterns": [],
-            "responses": []
-        },
-{
-            "tag": "",
-            "patterns": [],
-            "responses": []
+            "tag": "data analysis",
+            "patterns": [
+                "what is data analysis",
+                "data analysis",
+                "data analyst",
+                "analyzing data",
+                "data analytics"
+            ],
+            "responses": [
+                "Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data.",
+                "Data analytics converts raw data into actionable insights. It includes a range of tools, technologies, and processes used to find trends and solve problems by using data. Data analytics can shape business processes, improve decision-making, and foster business growth.",
+                "Data analytics is the science of analyzing raw data to make conclusions about information. Many of the techniques and processes of data analytics have been automated into mechanical processes and algorithms that work over raw data for human consumption."
+            ]
         }
     ]
 }
