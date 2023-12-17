@@ -51,11 +51,6 @@
       ]
     },
     {
-      "tag": "nothing",
-      "patterns": [],
-      "responses": [ "Please provide more context", "Not sure I understand", "Sorry, I can't understand you" ]
-    },
-    {
       "tag": "options",
       "patterns": [
         "How you could help me?",
@@ -65,7 +60,7 @@
         "What support is offered"
       ],
       "responses": [
-        "I am a data science chatbot. My capabilities are : I can chat with you and teach you about data science."
+        "I am a data science chatbot. I can chat with you and teach you about data science."
       ]
     },
     {
@@ -143,7 +138,6 @@
       "tag": "data",
       "patterns": [
         "what is data",
-        "where can I get data",
         "how is data used",
         "data"
       ],
@@ -177,7 +171,8 @@
         "whta is data engineering",
         "tell me about data engineering",
         "defention of data engineering",
-        "data engineering"
+        "data engineering",
+        "data engineer"
       ],
       "responses": [ "Data engineering is a field within data science that focuses on the practical application of data collection and processing" ]
     },
@@ -1223,7 +1218,5 @@
       "patterns": [ "Why is Boosting so effective" ],
       "response": [ "Ensemble methods reduce the bias and variance of our Machine Learning models.Ensemble methods help increase the stability and performance of machine learning models by eliminating the dependency of a single estimator." ]
     }
-
-
   ]
 }
