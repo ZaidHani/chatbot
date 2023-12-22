@@ -1,2 +1,2 @@
-this repo is made for notes, codes datasets and json files to make a chatbot for the lablab.me hackathon
-this repo is not the main repo for the chatbot it is just for notes
+# Data Science Chatbot
+this repo contains the final result for the data science chatbot for the lablab.me hackathon, this repo contains the NLP and ML code that was written for this chatbot along with the data that was built from scratch.
